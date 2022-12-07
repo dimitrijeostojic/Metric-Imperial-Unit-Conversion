@@ -18,7 +18,7 @@ convertBtn.addEventListener("click", function () {
   for (let i = 0; i < niz1.length; i++) {
     if (i === 0) {
       obj1 = "meters";
-      obj2 = "feets";
+      obj2 = "feet";
     } else if (i === 1) {
       obj1 = "liters";
       obj2 = "gallons";
